@@ -1,5 +1,5 @@
 === Plugin Name ===
-Author: Batu Zaya
+Author: Claude Bernard
 Tags: angularjs, client side, single page application, chat, chat room, chatroom, firebase
 Requires at least: 3.9
 Tested up to: 4.2.2
